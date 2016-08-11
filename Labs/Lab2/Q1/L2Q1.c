@@ -3,7 +3,7 @@
 /////////////////////////////////
 /*
 * EE-463 Operating Systems
- * Name: Hosam
+ * Name: Hosam Al-Haythami
  * ID: 1210288
  * 
  * Q1
