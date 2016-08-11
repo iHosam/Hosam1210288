@@ -22,14 +22,17 @@ for((i=0;i<n;i++))
 do
 echo ${nos[$i]}
 done
+
 #main loop
 greatest=${nos[0]}
 for((i=0;i<n;i++))
 do
+
 #logic for greatest number
 elif [ ${nos[$i]} -gt $greatest ]; then
 greatest=${nos[$i]}
 fi
 done
-#printing smallest and greatest number
+
+#printing greatest number
 echo "greatest number in this group is $greatest"

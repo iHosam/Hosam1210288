@@ -1,0 +1,2 @@
+program: L3Q1.c intFact.c
+	gcc -o program L3Q1.c intFact.c -I.
