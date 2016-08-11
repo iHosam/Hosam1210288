@@ -20,7 +20,7 @@ int main(){
 			printf("June\n");
 			printf("July\n");
 			printf("August\n");
-            printf("September\n");
+            		printf("September\n");
 			printf("October\n");
 			printf("November\n");
 			printf("December\n");
